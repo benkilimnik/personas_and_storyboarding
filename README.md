@@ -16,5 +16,6 @@
 - Image modal
   - https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_modal_img
 - Collapsible (for the interview questions)
- - https://www.w3schools.com/howto/howto_js_collapsible.asp
-- Sticky Navbar (in CSS) from https://www.w3schools.com/howto/howto_js_navbar_sticky.asp
+  - https://www.w3schools.com/howto/howto_js_collapsible.asp
+- Sticky Navbar (in CSS) 
+  - https://www.w3schools.com/howto/howto_js_navbar_sticky.asp

@@ -5,6 +5,7 @@
 - Empathy map made with https://app.moqups.com/
 - Storyboard made with http://app.pixton.com/
 - For the interface sketch and storyboard, screenshots from the GET mobile app were taken while using the app on my phone
+  - Smartphone outline from https://www.freepik.com/
 - Pictures of Personas at the center of empathy maps are from https://www.freepik.com/
 
 ## Code
